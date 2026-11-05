@@ -1,0 +1,8 @@
+{
+  "name": "V S V Container Lines",
+  "description": "Official corporate website for V S V Container Lines (OPC) Private Limited - International Freight Forwarders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
